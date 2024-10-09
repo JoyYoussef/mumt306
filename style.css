@@ -1,0 +1,37 @@
+.bigText{
+    color:slateblue;
+    font-size: 40px;
+    font-family: Tahoma;
+}
+
+.mediumText{
+    color:darkslateblue;
+    font-size:25px;
+}
+
+.smallText{
+    color: slateblue;
+    font-size:20px;
+}
+
+body{
+    background-color: rgba(219, 215, 243, 0.572);
+}
+
+#header{
+    line-height: 20%;
+    text-align: center;
+}
+
+#components{
+    line-height: 1.8;
+}
+#diagram{
+    display:flex;
+    width:800px;
+    height:auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
